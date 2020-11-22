@@ -3,14 +3,10 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
         <title>Laravel</title>
-
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
-
         <!-- Styles -->
         <style>
             html, body {
@@ -97,9 +93,6 @@
                     @endauth
                 </div>
             @endif--}}
-
-
-
             <!-- navbar start bootstrap -->
                 <nav class="navbar navbar-expand-lg navbar-light bg-light">
                     <a class="navbar-brand" href="#">FACEMART</a>
@@ -151,8 +144,6 @@
                 </nav>
                 <!--navbar bootstrap finish -->
                 </div>
-
-        
       <!--
             <div class="content">
                 <div class="title m-b-md">
@@ -170,7 +161,6 @@
                 </div>
             </div>
             -->
-
         <!-- slideshow start -->
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
@@ -193,9 +183,7 @@
                 <span class="sr-only">Next</span>
             </a>
         </div>
-
         <!--slideshow finish -->
-
         <!-- SERVICE STARTED -->
 
         <div class="container">
@@ -336,10 +324,7 @@
             <!--start our member -->
 
             <div class="marg">
-
             <center><h2>Our Member</h2></center>
-
-
             <div class="row">
                 <div class="col"><div class="card" style="width: 15rem;">
                         <img src="https://fmcourier.com/wp-content/uploads/2016/12/jewl.jpg" class="rounded-circle card-img-top" alt="...">
@@ -387,15 +372,9 @@
             </div>
 
             </div>
-
-
             <!-- end our member -->
-
             <!-- start news -->
-
             <div class="marg">
-
-
             <center><h2>Blog</h2></center>
             <div class="row">
                 <div class="col"><div class="card" style="width: 20rem;">
@@ -430,17 +409,12 @@
             </div>
             <!--end blog -->
         </div>
-
         <div class="alert alert-secondary" role="alert">
             All right reserved by Facemart & Tentech
         </div>
-
-
-
     <!-- bootstrap javascript -->
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-
     </body>
 </html>

@@ -10,5 +10,8 @@ class Divreceive extends Model
     //use HasFactory;
     protected $table = "divreceives";
 
-
+    public function sendings()
+    {
+        return $this->hasOne('App\Sendings','id' );
+    }
 }
